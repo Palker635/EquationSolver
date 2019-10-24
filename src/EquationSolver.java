@@ -2,7 +2,7 @@ import javax.swing.*;
 
 public class Ekvation {
     public static void main(String[] args) {
-
+     
         while(true) {
             int grad = Integer.parseInt(JOptionPane.showInputDialog(null, "Ange ekvationens grad"));
         } if (grad =0) {
